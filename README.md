@@ -1,1 +1,1 @@
-# ProjectVerse
+# ProjectVerse -  Discover Your Next Project
