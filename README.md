@@ -1,5 +1,7 @@
 # ProjectVerse - A Platform for Projects and Hiring Developers
 
+![projectverse banner](https://github.com/user-attachments/assets/b29847fb-1517-4475-8cc7-60fbc1e428b9)
+
 **ProjectVerse** is a versatile online platform where users can browse and find paid and unpaid projects, as well as hire developers for custom project development and software solutions. It aims to connect project seekers and developers in a seamless way, enabling collaboration, knowledge sharing, and growth. Whether you're looking for ready-made projects or seeking a developer to build a new one, **ProjectVerse** provides an all-in-one platform to meet your needs.
 
 ## Table of Contents
