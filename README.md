@@ -1,6 +1,12 @@
+
+https://github.com/user-attachments/assets/16f8dfe2-79e2-4f51-90e1-726b16e27fec
 # ProjectVerse - A Platform for Projects and Hiring Developers
 
 ![projectverse banner](https://github.com/user-attachments/assets/b29847fb-1517-4475-8cc7-60fbc1e428b9)
+
+Demo Video : Uploading WhatsApp Video 2024-11-17 at 05.02.45.mp4…
+
+
 
 **ProjectVerse** is a versatile online platform where users can browse and find paid and unpaid projects, as well as hire developers for custom project development and software solutions. It aims to connect project seekers and developers in a seamless way, enabling collaboration, knowledge sharing, and growth. Whether you're looking for ready-made projects or seeking a developer to build a new one, **ProjectVerse** provides an all-in-one platform to meet your needs.
 
